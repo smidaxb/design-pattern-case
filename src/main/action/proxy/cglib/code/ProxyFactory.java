@@ -20,6 +20,8 @@ public class ProxyFactory implements MethodInterceptor {
 		Enhancer enhancer = new Enhancer();
 		//2. 设置父类
 		enhancer.setSuperclass(target.getClass());
+		//此处在设置用户缓存为true时不会产生内存溢出，设置为false时，是会引发内存溢出的
+		enhancer.setUseCache(false);
 		//3. 设置回调函数
 		enhancer.setCallback(this);
 		//4. 创建子类对象（代理对象）
