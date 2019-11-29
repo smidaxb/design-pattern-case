@@ -1,7 +1,7 @@
 package main.structure.composite.code;
 
 /**
- * CREATED BY yangyifan
+ * CREATED BY smida
  * Date: 2019/11/20
  */
 public class Department extends Component {

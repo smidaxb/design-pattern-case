@@ -1,7 +1,7 @@
 package main.create.factory.SimpleFactory.pizzaStore.order;
 
 /**
- * CREATED BY yangyifan
+ * CREATED BY smida
  * Date: 2019/11/6
  */
 public class PizzaStore {

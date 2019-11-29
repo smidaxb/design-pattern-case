@@ -2,7 +2,7 @@ package main.action.proxy.staticProxy.code;
 
 /**
  * 静态代理对象
- * CREATED BY yangyifan
+ * CREATED BY smida
  * Date: 2019/11/24
  */
 public class TeacherDaoProxy implements ITeacherDao{

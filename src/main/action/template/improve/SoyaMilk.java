@@ -2,7 +2,7 @@ package main.action.template.improve;
 
 /**
  * 豆浆抽象类
- * CREATED BY yangyifan
+ * CREATED BY smida
  * Date: 2019/11/24
  */
 public abstract class SoyaMilk {

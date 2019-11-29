@@ -1,7 +1,7 @@
 package main.principle.ocp.improve;
 
 /**
- * CREATED BY yangyifan
+ * CREATED BY smida
  * Date: 2019/10/30
  */
 public class Ocp {

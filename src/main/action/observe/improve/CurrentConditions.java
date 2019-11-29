@@ -1,7 +1,7 @@
 package main.action.observe.improve;
 
 /**
- * CREATED BY yangyifan
+ * CREATED BY smida
  * Date: 2019/11/26
  */
 public class CurrentConditions implements Observer{

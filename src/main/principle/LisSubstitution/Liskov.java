@@ -2,7 +2,7 @@ package main.principle.LisSubstitution;
 
 /**
  * 里氏替换原则--继承父类不能重写，尽量继承基类
- * CREATED BY yangyifan
+ * CREATED BY smida
  * Date: 2019/10/29
  */
 public class Liskov {

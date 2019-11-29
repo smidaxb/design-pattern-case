@@ -1,7 +1,7 @@
 package main.action.visitor.code;
 
 /**
- * CREATED BY yangyifan
+ * CREATED BY smida
  * Date: 2019/11/25
  */
 public class Fail extends Action {

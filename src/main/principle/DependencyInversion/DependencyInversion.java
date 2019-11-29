@@ -2,7 +2,7 @@ package main.principle.DependencyInversion;
 
 /**
  * 依赖倒置原则--面向接口
- * CREATED BY yangyifan
+ * CREATED BY smida
  * Date: 2019/10/29
  */
 public class DependencyInversion {

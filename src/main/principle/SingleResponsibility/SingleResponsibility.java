@@ -2,7 +2,7 @@ package main.principle.SingleResponsibility;
 
 /**
  * 单一职责原则--每个类只完成一种职责
- * CREATED BY yangyifan
+ * CREATED BY smida
  * Date: 2019/10/28
  */
 public class SingleResponsibility {

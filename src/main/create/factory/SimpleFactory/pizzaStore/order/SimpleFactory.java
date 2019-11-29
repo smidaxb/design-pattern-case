@@ -6,7 +6,7 @@ import main.create.factory.SimpleFactory.pizzaStore.pizza.PepperPizza;
 import main.create.factory.SimpleFactory.pizzaStore.pizza.Pizza;
 
 /**
- * CREATED BY yangyifan
+ * CREATED BY smida
  * Date: 2019/11/6
  */
 //简单工厂类

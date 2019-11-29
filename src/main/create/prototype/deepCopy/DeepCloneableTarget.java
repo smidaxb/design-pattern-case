@@ -3,7 +3,7 @@ package main.create.prototype.deepCopy;
 import java.io.Serializable;
 
 /**
- * CREATED BY yangyifan
+ * CREATED BY smida
  * Date: 2019/11/12
  */
 public class DeepCloneableTarget implements Serializable, Cloneable {

@@ -1,7 +1,7 @@
 package main.structure.decorator.code;
 
 /**
- * CREATED BY yangyifan
+ * CREATED BY smida
  * Date: 2019/11/19
  */
 public class Coffee extends Drink{

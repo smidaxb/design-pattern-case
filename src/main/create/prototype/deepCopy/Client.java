@@ -1,7 +1,7 @@
 package main.create.prototype.deepCopy;
 
 /**
- * CREATED BY yangyifan
+ * CREATED BY smida
  * Date: 2019/11/12
  */
 public class Client {

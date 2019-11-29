@@ -3,7 +3,7 @@ package main.structure.bridge;
 import java.sql.Driver;
 
 /**
- * CREATED BY yangyifan
+ * CREATED BY smida
  * Date: 2019/11/17
  */
 public class Client {

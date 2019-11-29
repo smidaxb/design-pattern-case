@@ -1,7 +1,7 @@
 package main.create.prototype;
 
 /**
- * CREATED BY yangyifan
+ * CREATED BY smida
  * Date: 2019/10/24
  */
 public class PrototypeTest {

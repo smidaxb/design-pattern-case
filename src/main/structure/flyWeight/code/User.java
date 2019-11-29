@@ -1,7 +1,7 @@
 package main.structure.flyWeight.code;
 
 /**
- * CREATED BY yangyifan
+ * CREATED BY smida
  * Date: 2019/11/23
  */
 public class User {

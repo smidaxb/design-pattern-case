@@ -2,7 +2,7 @@ package main.structure.bridge;
 
 /**
  * 手机抽象类
- * CREATED BY yangyifan
+ * CREATED BY smida
  * Date: 2019/11/17
  */
 public abstract class Phone {

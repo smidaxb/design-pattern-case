@@ -2,7 +2,7 @@ package main.structure.flyWeight.code;
 
 /**
  * 享元模式
- * CREATED BY yangyifan
+ * CREATED BY smida
  * Date: 2019/11/23
  */
 public class Client {

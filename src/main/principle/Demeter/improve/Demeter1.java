@@ -2,7 +2,7 @@ package main.principle.Demeter.improve;
 
 /**
  * 迪米特法则
- * CREATED BY yangyifan
+ * CREATED BY smida
  * Date: 2019/10/30
  */
 

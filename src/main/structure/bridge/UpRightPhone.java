@@ -1,7 +1,7 @@
 package main.structure.bridge;
 
 /**
- * CREATED BY yangyifan
+ * CREATED BY smida
  * Date: 2019/11/17
  */
 public class UpRightPhone extends Phone {

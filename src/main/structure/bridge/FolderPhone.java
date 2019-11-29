@@ -2,7 +2,7 @@ package main.structure.bridge;
 
 /**
  * 折叠手机具体类
- * CREATED BY yangyifan
+ * CREATED BY smida
  * Date: 2019/11/17
  */
 public class FolderPhone extends Phone {

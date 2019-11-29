@@ -2,7 +2,7 @@ package main.principle.interfaceSegregation;
 
 /**
  * 接口隔离原则--接口功能最小化
- * CREATED BY yangyifan
+ * CREATED BY smida
  * Date: 2019/10/29
  */
 public class Segregation {

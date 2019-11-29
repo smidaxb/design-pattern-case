@@ -1,7 +1,7 @@
 package main.create.factory.SimpleFactory.pizzaStore.pizza;
 
 /**
- * CREATED BY yangyifan
+ * CREATED BY smida
  * Date: 2019/11/6
  */
 public class PepperPizza extends Pizza {

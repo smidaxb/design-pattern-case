@@ -3,7 +3,7 @@ package main.create.factory.SimpleFactory.pizzaStore;
 import java.util.Calendar;
 
 /**
- * CREATED BY yangyifan
+ * CREATED BY smida
  * Date: 2019/11/8
  */
 public class JavaCase {

@@ -1,7 +1,7 @@
 package main.principle.LisSubstitution.improve;
 
 /**
- * CREATED BY yangyifan
+ * CREATED BY smida
  * Date: 2019/10/29
  */
 public class liskov {

@@ -1,7 +1,7 @@
 package main.action.template.improve;
 
 /**
- * CREATED BY yangyifan
+ * CREATED BY smida
  * Date: 2019/11/24
  */
 public class PeanutSoyaMilk extends SoyaMilk {

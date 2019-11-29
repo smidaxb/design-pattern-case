@@ -2,7 +2,7 @@ package main.action.template.improve;
 
 /**
  * 纯豆浆
- * CREATED BY yangyifan
+ * CREATED BY smida
  * Date: 2019/11/24
  */
 public class PureSoyaMilk extends SoyaMilk{

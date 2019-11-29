@@ -1,7 +1,7 @@
 package main.action.template.code;
 
 /**
- * CREATED BY yangyifan
+ * CREATED BY smida
  * Date: 2019/11/24
  */
 public class RedBeanSoyaMilk extends SoyaMilk {

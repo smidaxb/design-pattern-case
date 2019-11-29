@@ -1,7 +1,7 @@
 package main.create.singleton;
 
 /**
- * CREATED BY yangyifan
+ * CREATED BY smida
  * Date: 2019/11/3
  */
 public enum EnumSingleton {

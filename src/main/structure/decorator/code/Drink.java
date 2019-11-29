@@ -2,7 +2,7 @@ package main.structure.decorator.code;
 
 /**
  * 主体基类
- * CREATED BY yangyifan
+ * CREATED BY smida
  * Date: 2019/11/19
  */
 public abstract class Drink {

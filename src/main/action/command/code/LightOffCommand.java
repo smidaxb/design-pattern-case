@@ -2,7 +2,7 @@ package main.action.command.code;
 
 /**
  * 关灯命令
- * CREATED BY yangyifan
+ * CREATED BY smida
  * Date: 2019/11/25
  */
 public class LightOffCommand implements Command {

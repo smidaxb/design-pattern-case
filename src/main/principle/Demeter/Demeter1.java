@@ -2,7 +2,7 @@ package main.principle.Demeter;
 
 /**
  * 迪米特法则--最少知道原则
- * CREATED BY yangyifan
+ * CREATED BY smida
  * Date: 2019/10/30
  */
 
